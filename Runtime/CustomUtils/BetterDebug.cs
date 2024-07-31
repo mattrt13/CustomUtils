@@ -2,7 +2,7 @@ using System.Diagnostics;
 using Debug = UnityEngine.Debug;
 using Color = UnityEngine.Color;
 
-namespace Runtime.Utils
+namespace Utils
 {
     public static class BetterDebug
     {
