@@ -1,0 +1,15 @@
+{
+    "name": "com.mattrt13.customutils",
+    "version": "0.0.1",
+    "displayName": "customUtils",
+    "description": "customized utils such as BetterDebug",
+    "dependencies": {},
+    "keywords": [
+        "Debug",
+        "log"
+    ],
+    "author": {
+        "name": "mattrt",
+        "email": "mehdiroozitalab13@gmail.com"
+    }
+}
