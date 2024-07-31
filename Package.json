@@ -1,7 +1,7 @@
 {
-    "name": "com.mattrt13.CustomUtils",
+    "name": "com.mattrt13.customutils",
     "version": "0.0.1",
-    "displayName": "CustomUtils",
+    "displayName": "custom-utils",
     "description": "customized utils such as BetterDebug",
     "unity": "2020.3",
     "dependencies": {},
