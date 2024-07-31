@@ -1,13 +1,12 @@
 {
-    "name": "com.mattrt.customUtils",
+    "name": "com.mattrt13.CustomUtils",
     "version": "0.0.1",
-    "displayName": "Custom-utils",
+    "displayName": "CustomUtils",
     "description": "customized utils such as BetterDebug",
     "unity": "2020.3",
     "dependencies": {},
     "keywords": [
-        "Event",
-        "Observer"
+        "Debug"
     ],
     "author": {
         "name": "mattrt",
