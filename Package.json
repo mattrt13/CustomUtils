@@ -6,7 +6,8 @@
     "unity": "2020.3",
     "dependencies": {},
     "keywords": [
-        "Debug"
+        "Debug",
+        "log"
     ],
     "author": {
         "name": "mattrt",
